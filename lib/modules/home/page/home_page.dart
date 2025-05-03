@@ -42,13 +42,13 @@ class _HomePageState extends State<HomePage> {
               children: [
                 Icon(
                   size: 30,
-                  color: Color.fromRGBO(156, 39, 176, 1),
+                  color: Color.fromRGBO(39, 53, 133, 1),
                   Icons.multiple_stop,
                 ),
                 Text(
                   "Fast Location",
                   style: TextStyle(
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                     fontSize: 30,
                     fontWeight: FontWeight.bold,
                   ),
@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   Icon(
                     size: 60,
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                     Icons.directions,
                   ),
                   Text(
@@ -119,11 +119,11 @@ class _HomePageState extends State<HomePage> {
             ),
             Row(
               children: [
-                Icon(size: 20, color: Color.fromRGBO(156, 39, 176, 1), Icons.place),
+                Icon(size: 20, color: Color.fromRGBO(39, 53, 133, 1), Icons.place),
                 Text(
                   "Últimas localizações",
                   style: TextStyle(
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
@@ -134,7 +134,7 @@ class _HomePageState extends State<HomePage> {
             ElevatedButton(
               onPressed: null, // Botão desativado
               style: ElevatedButton.styleFrom(
-                backgroundColor: Color.fromRGBO(156, 39, 176, 1), // Cor de fundo
+                backgroundColor: Color.fromRGBO(39, 53, 133, 1), // Cor de fundo
                 minimumSize: Size(widthMedia * 0.8, 15), // Tamanho mínimo
                 padding: EdgeInsets.all(
                   heightMedia * 0.02,
@@ -152,7 +152,7 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       bottomNavigationBar: Container(
-        decoration: BoxDecoration(color: Color.fromRGBO(156, 39, 176, 1)),
+        decoration: BoxDecoration(color: Color.fromRGBO(39, 53, 133, 1)),
         child: IconButton(
           onPressed: null,
           icon: Icon(size: 50, color: Colors.white, Icons.assistant_direction),

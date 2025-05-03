@@ -28,7 +28,7 @@ class _SearchAddressState extends State<SearchAddress> {
               Text(
                 "Dados da Localização",
                 style: TextStyle(
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                     fontWeight: FontWeight.bold,
                     fontSize: 18),
               )
@@ -41,7 +41,7 @@ class _SearchAddressState extends State<SearchAddress> {
               const Text(
                 "Logradouro/Rua: ",
                 style: TextStyle(
-                  color: Color.fromRGBO(156, 39, 176, 1),
+                  color: Color.fromRGBO(39, 53, 133, 1),
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -55,7 +55,7 @@ class _SearchAddressState extends State<SearchAddress> {
               const Text(
                 "Bairro/Distrito: ",
                 style: TextStyle(
-                  color: Color.fromRGBO(156, 39, 176, 1),
+                  color: Color.fromRGBO(39, 53, 133, 1),
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -71,7 +71,7 @@ class _SearchAddressState extends State<SearchAddress> {
                   const Text(
                     "Complemento: ",
                     style: TextStyle(
-                      color: Color.fromRGBO(156, 39, 176, 1),
+                      color: Color.fromRGBO(39, 53, 133, 1),
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -86,7 +86,7 @@ class _SearchAddressState extends State<SearchAddress> {
               const Text(
                 "Cidade/UF: ",
                 style: TextStyle(
-                  color: Color.fromRGBO(156, 39, 176, 1),
+                  color: Color.fromRGBO(39, 53, 133, 1),
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -100,7 +100,7 @@ class _SearchAddressState extends State<SearchAddress> {
               const Text(
                 "CEP: ",
                 style: TextStyle(
-                  color: Color.fromRGBO(156, 39, 176, 1),
+                  color: Color.fromRGBO(39, 53, 133, 1),
                   fontWeight: FontWeight.bold,
                 ),
               ),

@@ -64,7 +64,7 @@ class _HistoryPageState extends State<HistoryPage> {
                 leading: IconButton(
                   icon: const Icon(
                     Icons.arrow_back,
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                   ),
                   onPressed: () => Navigator.pop(context),
                 ),
@@ -89,14 +89,14 @@ class _HistoryPageState extends State<HistoryPage> {
                               Icon(
                                 Icons.share_location,
                                 size: 30,
-                                color: Color.fromRGBO(156, 39, 176, 1),
+                                color: Color.fromRGBO(39, 53, 133, 1),
                               ),
                               SizedBox(
                                 width: 10,
                               ),
                               Text("Endereços Localizados",
                                   style: TextStyle(
-                                      color: Color.fromRGBO(156, 39, 176, 1),
+                                      color: Color.fromRGBO(39, 53, 133, 1),
                                       fontSize: 25,
                                       fontStyle: FontStyle.italic,
                                       fontWeight: FontWeight.bold))

@@ -11,7 +11,7 @@ class SearchEmpty extends StatelessWidget {
         Icon(
           Icons.directions,
           size: 80,
-          color: Color.fromRGBO(156, 39, 176, 1),
+          color: Color.fromRGBO(39, 53, 133, 1),
         ),
         Padding(
           padding: EdgeInsets.all(20.0),

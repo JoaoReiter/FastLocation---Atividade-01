@@ -48,7 +48,7 @@ class _AddressListState extends State<AddressList> {
             Icon(
               Icons.location_off,
               size: 40,
-              color: Color.fromRGBO(156, 39, 176, 1),
+              color: Color.fromRGBO(39, 53, 133, 1),
             ),
             Padding(
               padding: EdgeInsets.all(10.0),
@@ -92,7 +92,6 @@ class _AddressListState extends State<AddressList> {
                       address.localidade,
                       style: const TextStyle(
                         fontSize: 12,
-                        //fontWeight: FontWeight.bold,
                       ),
                     )
                   ],

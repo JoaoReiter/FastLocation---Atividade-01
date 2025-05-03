@@ -58,7 +58,7 @@ WidgetAlert(BuildContext context, String titulo) {
         child: Text(
           "Pesquisar",
           style: TextStyle(
-            color: Color.fromRGBO(156, 39, 176, 1),
+            color: Color.fromRGBO(39, 53, 133, 1),
             fontSize: 20,
           ),
         ),
@@ -104,7 +104,7 @@ class AddressDetailPage extends StatelessWidget {
             Text(
               'CEP: ${address.cep}',
               style: TextStyle(
-                color: Color.fromRGBO(156, 39, 176, 1),
+                color: Color.fromRGBO(39, 53, 133, 1),
                 fontWeight: FontWeight.bold,
                 fontSize: 30,
               ),

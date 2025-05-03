@@ -49,7 +49,7 @@ class _InitialPageState extends State<InitialPage>
               padding: EdgeInsets.only(bottom: 10),
               child: Text("Fast Location",
                   style: TextStyle(
-                      color: Color.fromRGBO(156, 39, 176, 1),
+                      color: Color.fromRGBO(39, 53, 133, 1),
                       fontSize: 40,
                       fontWeight: FontWeight.bold)),
             ),
@@ -59,7 +59,7 @@ class _InitialPageState extends State<InitialPage>
                   padding: EdgeInsets.all(8),
                   child: Icon(
                     size: 150,
-                    color: Color.fromRGBO(156, 39, 176, 1),
+                    color: Color.fromRGBO(39, 53, 133, 1),
                     Icons.directions,
                   )),
             )
