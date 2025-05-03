@@ -95,12 +95,7 @@ class _HomePageState extends State<HomePage> {
                 );
               },
               style: ElevatedButton.styleFrom(
-                backgroundColor: Color.fromRGBO(
-                  156,
-                  39,
-                  176,
-                  1,
-                ), 
+                backgroundColor: Color.fromRGBO(39, 53, 133, 1), 
                 minimumSize: Size(
                   widthMedia * 0.8,
                   15,
