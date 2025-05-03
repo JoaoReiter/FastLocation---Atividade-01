@@ -1,0 +1,6 @@
+{
+    "iis.configDir": "",
+    "cmake.ignoreCMakeListsMissing": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "git.ignoreLimitWarning": true
+}
